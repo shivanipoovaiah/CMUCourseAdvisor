@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="../dashboard/javascripts/script.js"></script>
+    </head>
+    <body>
+        <form id="sug_form" class="form" action="course_suggest.php" method="post">
+            <p><b>What type of courses do you like?</b></p>
+                <textarea id="sug" type="text" name="sug"></textarea>
+            <p class="error" id="error_msg" style="display:none">Please enter what you need.</p>
+            
+            <input id="nli" style="display: none;" type="text" name="nli"/>
+            <p><button id="sug_btn" class="btn" type="submit" onClick="sugSubmit(event)" value="sug">Search</button></p>
+        </form>
+    </body>
+</html>
