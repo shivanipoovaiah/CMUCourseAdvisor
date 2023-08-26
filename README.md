@@ -9,7 +9,7 @@ The database I created is called cmudb.
 
 The database tables Ire created are user, badge, course, and review.
 
-The following queries Ire used to create the tables:
+The following queries are used to create the tables:
 
 cd C:\Users\shiva\Desktop\MISM\Spring2022\Enterprise Ib Development\Project\mysql\bin
 
