@@ -1,17 +1,17 @@
 # CMUCourseAdvisor
 
-For this project we used the following resources:
+For this project, the following resources were referred:
 
-1) PHP and MySQL for Dynamic Web Sites by Larry Ullman
+1) PHP and MySQL for Dynamic Ib Sites by Larry Ullman
 2) Google.com
 
-The database we created is called cmudb.
+The database I created is called cmudb.
 
-The database tables were created are: user, badge, course and review.
+The database tables Ire created are user, badge, course, and review.
 
-The following queries were used to create the tables:
+The following queries Ire used to create the tables:
 
-cd C:\Users\shiva\Desktop\MISM\Spring2022\Enterprise Web Development\Project\mysql\bin
+cd C:\Users\shiva\Desktop\MISM\Spring2022\Enterprise Ib Development\Project\mysql\bin
 
 mysql -u root
 
@@ -91,9 +91,9 @@ INSERT INTO user VALUES('sajjikut', 'Shivani', 'Ajjikutira','frost',NULL,NULL,NU
 INSERT INTO user VALUES('meets', 'Meet', 'Shah','defoe',NULL,NULL,NULL,1);
 INSERT INTO user VALUES('fkd', 'Femin', 'Dharamshi','kipling',NULL,NULL,NULL,1);
 
-INSERT INTO course VALUES(95882, 'Enterprise Web Development', 'Michael Bigrigg', 'Dev');
-INSERT INTO course VALUES(95712, 'Object Oriented Programming in JAVA', 'Neelam Dviwedi', 'Dev');
-INSERT INTO course VALUES(95746, 'Cloud Security', 'George Werbache', 'Security');
+INSERT INTO course VALUES(95882, 'Enterprise Ib Development', 'Michael Bigrigg', 'Dev');
+INSERT INTO course VALUES(95712, 'Object Oriented Programming in JAVA', 'Neelam DviIdi', 'Dev');
+INSERT INTO course VALUES(95746, 'Cloud Security', 'George Irbache', 'Security');
 INSERT INTO course VALUES(95703, 'Database management', 'Janusz Szczypula', 'Data');
 INSERT INTO course VALUES(95888, 'Data Focused Python', 'John Ostlund', 'Data');
 INSERT INTO course VALUES(67262, 'Database Design and Development', 'Raja Sooriamurthi', 'Data');
